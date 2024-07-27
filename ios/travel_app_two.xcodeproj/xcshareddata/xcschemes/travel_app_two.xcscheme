@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "travel_app_two.app"
-               BlueprintName = "travel_app_two"
-               ReferencedContainer = "container:travel_app_two.xcodeproj">
+               BuildableName = "truth_dare.app"
+               BlueprintName = "truth_dare"
+               ReferencedContainer = "container:truth_dare.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "travel_app_twoTests.xctest"
-               BlueprintName = "travel_app_twoTests"
-               ReferencedContainer = "container:travel_app_two.xcodeproj">
+               BuildableName = "truth_dareTests.xctest"
+               BlueprintName = "truth_dareTests"
+               ReferencedContainer = "container:truth_dare.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "travel_app_two.app"
-            BlueprintName = "travel_app_two"
-            ReferencedContainer = "container:travel_app_two.xcodeproj">
+            BuildableName = "truth_dare.app"
+            BlueprintName = "truth_dare"
+            ReferencedContainer = "container:truth_dare.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "travel_app_two.app"
-            BlueprintName = "travel_app_two"
-            ReferencedContainer = "container:travel_app_two.xcodeproj">
+            BuildableName = "truth_dare.app"
+            BlueprintName = "truth_dare"
+            ReferencedContainer = "container:truth_dare.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

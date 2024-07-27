@@ -1,5 +1,6 @@
-package com.travel_app_two
+package com.truth_dare
 import android.os.Bundle;
+import org.devio.rn.splashscreen.SplashScreen; // here
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
 import com.facebook.react.defaults.DefaultNewArchitectureEntryPoint.fabricEnabled
@@ -11,9 +12,10 @@ class MainActivity : ReactActivity() {
    * Returns the name of the main component registered from JavaScript. This is used to schedule
    * rendering of the component.
    */
-  override fun getMainComponentName(): String = "travel_app_two"
+  override fun getMainComponentName(): String = "truth_dare"
 
   override fun onCreate(savedInstanceState: Bundle?) {
+    SplashScreen.show(this);  // here
     super.onCreate(null)
   }
   /**

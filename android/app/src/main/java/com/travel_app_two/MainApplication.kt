@@ -1,5 +1,4 @@
-package com.travel_app_two
-
+package com.truth_dare
 import android.app.Application
 import com.facebook.react.PackageList
 import com.facebook.react.ReactApplication
